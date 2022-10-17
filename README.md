@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lifofernandez
-- 👀 I’m interested in EVM, solidty and FOSS.
-- 🌱 I’m currently learning DevOps.
-- 💞️ I’m looking to collaborate on sendous projects.
+- 👀 I’m workings as web3 full stack developer.
+- 🌱 I’m currently learning automatic remote opertatios (CI/CD, DevOps, K8s).
+- 💞️ I’m looking to collaborate on FOSS projects.
 - 📫 How to reach me lifofernandez@gmail.com
 
 <!---
