@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lifofernandez
 - 👀 I’m workings as DevOps.
-- 🌱 I’m currently learning Infrastracture as Code.
+- 🌱 I’m currently learning Infrastructure as Code.
 - 💞️ I’m looking to collaborate on FOSS projects.
 - 📫 How to reach me lifofernandez@gmail.com
 
