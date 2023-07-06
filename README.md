@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lifofernandez
-- 👀 I’m workings as web3 full stack developer.
-- 🌱 I’m currently learning automatic remote opertatios (CI/CD, DevOps, K8s).
+- 👀 I’m workings as DevOps.
+- 🌱 I’m currently learning Infrastracture as Code.
 - 💞️ I’m looking to collaborate on FOSS projects.
 - 📫 How to reach me lifofernandez@gmail.com
 
