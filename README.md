@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @lifofernandez
-- 👀 I’m workings as DevOps.
-- 🌱 I’m currently learning iPXE Booting.
-- 💞️ I’m looking to collaborate on FOSS projects.
-- 📫 How to reach me lifofernandez@gmail.com
+- 👋 Hi, 
 
 <!---
 lifofernandez/lifofernandez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
